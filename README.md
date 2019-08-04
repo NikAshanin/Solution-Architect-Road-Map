@@ -24,7 +24,7 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 ## Roles&Responsibilities
 	
 - Technical Consultant
--- To manage stakeholders
+   - To manage stakeholders
 -- To participate in pre-sale activities
 -- To make architecture's review
 -- To make interviews
