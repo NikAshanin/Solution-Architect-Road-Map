@@ -97,6 +97,11 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
    - Should demonstrate strong analytic and design skills
 - Mentoring/training
 
+# Contacts
+
+- https://medium.com/@nvashanin Blog about Solution Architecture
+- https://www.linkedin.com/in/nikolay-ashanin-7bb3a57a/ For any questions feel free to contact OR nv.ashanin@gmail.com
+
 # Acknowledgments
 
 Inspired by https://github.com/tlbootcamp/tlroadmap.
