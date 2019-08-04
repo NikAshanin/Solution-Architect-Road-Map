@@ -30,39 +30,39 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
   - To make interviews
   - To participate in architecture discovery
 - Technical leader
-   - Technical design
-      - To make high-level OR enterprise level technical design
-      - To make low-level OR API level technical design
-      - To create and maintain documentation
-      - To lead technical innovation
-      - To develop work instructions, trainings, white-papers, case studies
-   - Knowledge management
-      - To support development team
-      - To be a mentor and to share knowledge
-   - Technology knowledge
-      - To choose new technologies
-      - To understand technology stacks and possible improvements
-   - Requirements
-      - To manage non-functional requirements
+  - Technical design
+    - To make high-level OR enterprise level technical design
+    - To make low-level OR API level technical design
+    - To create and maintain documentation
+    - To lead technical innovation
+    - To develop work instructions, trainings, white-papers, case studies
+  - Knowledge management
+    - To support development team
+    - To be a mentor and to share knowledge
+  - Technology knowledge
+    - To choose new technologies
+    - To understand technology stacks and possible improvements
+  - Requirements
+    - To manage non-functional requirements
 - Business Anatytic/Product owner
-   - Product understanding
-      - Market knowledge
-         - To do risk-management related to law knowledge (GDPR, etc) from FR&NFR point of view
-	 - To know competitors
-      - Product knowledge
-	 - To formulate product vision
-	 - To know product metrics
-	 - To know product strategy
-      - User's knowledge
-	 - To know end users
-	 - To know users' problems
-      - Backlog management
-	 - To provide technical assessment of upcoming business requirements
-	 - To create technical items
-	 - To prioritize backlog
+  - Product understanding
+    - Market knowledge
+      - To do risk-management related to law knowledge (GDPR, etc) from FR&NFR point of view
+      - To know competitors
+    - Product knowledge
+      - To formulate product vision
+      - To know product metrics
+      - To know product strategy
+    - User's knowledge
+      - To know end users
+      - To know users' problems
+    - Backlog management
+      - To provide technical assessment of upcoming business requirements
+      - To create technical items
+      - To prioritize backlog
 - Developer
-   - To create POC
-   - To make code review or implementation
+  - To create POC
+  - To make code review or implementation
 
 ## Personal skills
 - Presentation skills
