@@ -66,35 +66,35 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 
 ## Personal skills
 - Presentation skills
-   - Public speaking
-   - White-boarding skills
+  - Public speaking
+  - White-boarding skills
 - Communication
-   - Direct contact with stakeholders
-   - Explanation skills
-   - Negotiations
-   - Conflict management
-   - Networking
+  - Direct contact with stakeholders
+  - Explanation skills
+  - Negotiations
+  - Conflict management
+  - Networking
 - Time management
-   - Priority management
-   - Personal growth plan
-   - Time management
+  - Priority management
+  - Personal growth plan
+  - Time management
 - Mind
-   - Abstract mind
-   - Tactic and strategic mind
-   - Decision making
+  - Abstract mind
+  - Tactic and strategic mind
+  - Decision making
 - Self development
-   - Constant self education
-   - Discipline
-   - Ability to quick learn new things
+  - Constant self education
+  - Discipline
+  - Ability to quick learn new things
 - Relation management
-   - Empathy
-   - Emotional Intellegence
+  - Empathy
+  - Emotional Intellegence
 - Programming
-   - Should be able to do quick POCs
-   - Should be very strong with coding in relevant technologies as per the technology stack of the organization
+  - Should be able to do quick POCs
+  - Should be very strong with coding in relevant technologies as per the technology stack of the organization
 - Analysis and design
-   - Should be aware of design patterns for solving different kind of problems
-   - Should demonstrate strong analytic and design skills
+  - Should be aware of design patterns for solving different kind of problems
+  - Should demonstrate strong analytic and design skills
 - Mentoring/training
 
 # Contacts
