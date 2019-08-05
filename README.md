@@ -22,35 +22,44 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 # Knowledge Base
 
 ## Roles&Responsibilities
-	
+
 - Technical Consultant
   - To manage stakeholders
   - To participate in pre-sale activities
-  - To make architecture's review
+  - To make architecture assessments
   - To make interviews
   - To participate in architecture discovery
+  - To provide high-level cost or effort estimations
+  - To triage incidents during test phases
 - Technical leader
   - Technical design
-    - To make high-level OR enterprise level technical design
-    - To make low-level OR API level technical design
-    - To create and maintain documentation
+    - Writing or managing solution documentation
+	- To make high-level OR enterprise level technical design
+	- To make low-level OR API level technical design
+	- To create and maintain architecture documents for business and technical teams documentation
+	- To develop work instructions, trainings, white-papers, case studies
     - To lead technical innovation
-    - To develop work instructions, trainings, white-papers, case studies
+    - Testing support
+      - To define needed testing environments
+      - To govern functional test scripts
+      - To create performance test approaches
   - Knowledge management
     - To support development team
     - To be a mentor and to share knowledge
   - Technology knowledge
     - To choose new technologies
     - To understand technology stacks and possible improvements
+    - To decide when and what industry standards are applicable to the project
   - Requirements
     - To manage non-functional requirements
+    - To ensure that defined solution is according security standards and guidelines
 - Business Anatytic/Product owner
   - Product understanding
     - Market knowledge
       - To do risk-management related to law knowledge (GDPR, etc) from FR&NFR point of view
       - To know competitors
     - Product knowledge
-      - To formulate product vision
+      - To formulate product and solution roadmap
       - To know product metrics
       - To know product strategy
     - User's knowledge
@@ -63,6 +72,12 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 - Developer
   - To create POC
   - To make code review or implementation
+- Project manager
+  - To provide generic PM support
+  - To help PMs in life-cycle support
+  - To resolve planning dependencies
+  - To support team allocation
+  - To make license costs calculation
 
 ## Personal skills
 - Presentation skills
