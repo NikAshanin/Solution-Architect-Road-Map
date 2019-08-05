@@ -122,6 +122,6 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 Inspired by https://github.com/tlbootcamp/tlroadmap.
 
 Many thanks for providing feedback and supervision:
-- !(Frank Groot)[https://www.linkedin.com/in/frank-groot-517624/] Solution Architect, Epam Systems/Liberty Global
+- ![Frank Groot](https://www.linkedin.com/in/frank-groot-517624/) Solution Architect, Epam Systems/Liberty Global
 
 
