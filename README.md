@@ -4,7 +4,7 @@ This is a Skills map and roles&responsibilities of Solution Architects created b
 
 # Road Map
 
-![](SA.png)
+![](SolutionArchitect.png)
 
 It includes two main parts:
 - **Roles&Responsibilities.** High level list of working roles and concrete responsibilities.
@@ -12,8 +12,8 @@ It includes two main parts:
 
 ## Download Road Map
 
-- [PNG](SA.png)
-- [Mindmap](Solution_Architect.xmind)
+- [PNG](SolutionArchitect.png)
+- [Mindmap](SolutionArchitect.xmind)
 
 # Work in progress
 
@@ -43,9 +43,12 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
       - To define needed testing environments
       - To govern functional test scripts
       - To create performance test approaches
-  - Knowledge management
-    - To support development team
-    - To be a mentor and to share knowledge
+  - Development support
+    - To share knowledge
+    - To share solution details and fix solution details and gaps
+  - Mentoring and supervision
+    - To be a mentor
+    - To provide a supervision to solve project's and technical issues
   - Technology knowledge
     - To choose new technologies
     - To understand technology stacks and possible improvements
@@ -91,7 +94,6 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
   - Networking
 - Time management
   - Priority management
-  - Personal growth plan
   - Time management
 - Mind
   - Abstract mind
@@ -100,6 +102,7 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 - Self development
   - Constant self education
   - Discipline
+  - Personal growth plan
   - Ability to quick learn new things
 - Relation management
   - Empathy
