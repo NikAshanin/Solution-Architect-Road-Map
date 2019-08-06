@@ -19,6 +19,10 @@ It includes two main parts:
 
 Current version in pre-alpha. You are really welcome to contribute to a project via pull request or you can create an issue.
 
+# How to contribute
+
+TBD
+
 # Knowledge Base
 
 ## Roles&Responsibilities
