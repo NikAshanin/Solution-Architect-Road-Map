@@ -4,7 +4,7 @@ This is a Skills map and roles&responsibilities of Solution Architects created b
 
 # Road Map
 
-![](SolutionArchitect.png)
+![](SolutionArc.png)
 
 It includes two main parts:
 - **Roles&Responsibilities.** High level list of working roles and concrete responsibilities.
@@ -12,7 +12,7 @@ It includes two main parts:
 
 ## Download Road Map
 
-- [PNG](SolutionArchitect.png)
+- [PNG](SolutionArc.png)
 - [Mindmap](SolutionArchitect.xmind)
 
 # Work in progress
