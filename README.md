@@ -2,6 +2,12 @@
 
 This is a Skills map and roles&responsibilities of Solution Architects created by Nikolai Ashanin.
 
+Solution Architect position becomes more and more popular nowadays. If 10 years ago, there were almost no such roles in IT companies then today those specialists can be seen in a lot of projects.
+
+However, there are just a few sources and books which can help with Solution Architecture definition, Roles&Responsibilities and required skills.
+
+The goal of this Road Map is to help in understanding what is Solution Architect role about and how to grow in that direction.
+
 # Road Map
 
 ![](SolutionArc.png)
@@ -21,9 +27,21 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 
 # How to contribute
 
-TBD
+Please, feel free to contribute to this Road Map.
+In case, if you are a Solution Architect OR playing a simular role then there are a few possibities how to contribute:
+- Create a pull request with improvements.
+- Create an issue with your concerns.
+- Feel free to contact me directly to discuss raised questions.
 
 # Knowledge Base
+
+## The structure
+
+Each point will be described in a proper way:
+- Definition
+- Why is it important
+- How to improve
+- Sources/books/courses
 
 ## Roles&Responsibilities
 
