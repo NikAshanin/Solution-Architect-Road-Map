@@ -10,7 +10,7 @@ The goal of this Road Map is to help in understanding what is Solution Architect
 
 # Road Map
 
-![](Architect.png)
+![](SolutionArchitect.png)
 
 It includes two main parts:
 - **Roles&Responsibilities.** High level list of working roles and concrete responsibilities.
@@ -18,8 +18,8 @@ It includes two main parts:
 
 ## Download Road Map
 
-- [PNG](Architect.png)
-- [Mindmap](Architect.xmind)
+- [PNG](SolutionArchitect.png)
+- [Mindmap](SolutionArchitect.xmind)
 
 # Work in progress
 
