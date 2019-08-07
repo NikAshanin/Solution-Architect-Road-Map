@@ -1,6 +1,6 @@
 # Solution Architect Road Map
 
-This is a Skills map and roles&responsibilities of Solution Architects created by Nikolai Ashanin.
+This is a Skills map and roles&responsibilities of Solution Architects created by (Nikolai Ashanin)[https://www.linkedin.com/in/nikolay-ashanin-7bb3a57a/].
 
 Solution Architect position becomes more and more popular nowadays. If 10 years ago, there were almost no such roles in IT companies then today those specialists can be seen in a lot of projects.
 
