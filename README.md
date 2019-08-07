@@ -28,7 +28,7 @@ Current version in pre-alpha. You are really welcome to contribute to a project 
 # How to contribute
 
 Please, feel free to contribute to this Road Map.
-In case, if you are a Solution Architect OR playing a simular role then there are a few possibities how to contribute:
+In case, if you are a Solution Architect OR playing a similar role then there are a few possibilities how to contribute:
 - Create a pull request with improvements.
 - Create an issue with your concerns.
 - Feel free to contact me directly to discuss raised questions.
