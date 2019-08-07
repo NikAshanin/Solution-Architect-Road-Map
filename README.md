@@ -121,6 +121,7 @@ Each point will be described in a proper way:
   - Abstract mind
   - Tactic and strategic mind
   - Decision making
+  - Stress resistance
 - Self development
   - Constant self education
   - Discipline
