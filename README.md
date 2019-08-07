@@ -147,6 +147,6 @@ Each point will be described in a proper way:
 Inspired by https://github.com/tlbootcamp/tlroadmap.
 
 Many thanks for providing feedback and supervision:
-- [Frank Groot](https://www.linkedin.com/in/frank-groot-517624/) Solution Architect, Epam Systems/Liberty Global
-- Dzmitry Palikarpau Delivery Manager, Epam Systems
+- [Frank Groot](https://www.linkedin.com/in/frank-groot-517624/), Solution Architect, Epam Systems/Liberty Global
+- Dzmitry Palikarpau, Delivery Manager, Epam Systems
 
