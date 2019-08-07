@@ -79,21 +79,20 @@ Each point will be described in a proper way:
     - To manage non-functional requirements
     - To ensure that defined solution is according security standards and guidelines
 - Business Anatytic/Product owner
-  - Product understanding
-    - Market knowledge
-      - To do risk-management related to law knowledge (GDPR, etc) from FR&NFR point of view
-      - To know competitors
-    - Product knowledge
-      - To formulate product and solution roadmap
-      - To know product metrics
-      - To know product strategy
-    - User's knowledge
-      - To know end users
-      - To know users' problems
-    - Backlog management
-      - To provide technical assessment of upcoming business requirements
-      - To create technical items
-      - To prioritize backlog
+  - Market knowledge
+    - To do risk-management related to law knowledge (GDPR, etc) from FR&NFR point of view
+    - To know competitors
+  - Product knowledge
+    - To formulate product and solution roadmap
+    - To know product metrics
+    - To know product strategy
+  - User's knowledge
+    - To know end users
+    - To know users' problems
+  - Backlog management
+    - To provide technical assessment of upcoming business requirements
+    - To create technical items
+    - To prioritize backlog
 - Developer
   - To create POC
   - To make code review or implementation
