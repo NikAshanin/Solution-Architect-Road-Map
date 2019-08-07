@@ -1,4 +1,4 @@
-![](logo_sa.png)
+![](logosa.png)
 
 This is a Skills map and roles&responsibilities of Solution Architects created by [Nikolai Ashanin](https://www.linkedin.com/in/nikolay-ashanin-7bb3a57a/).
 
