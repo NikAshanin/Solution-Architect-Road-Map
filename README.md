@@ -6,7 +6,7 @@ Solution Architect position becomes more and more popular nowadays. If 10 years 
 
 However, there are just a few sources and books which can help with Solution Architecture definition, Roles&Responsibilities and required skills.
 
-The goal of this Road Map is to help in understanding what is Solution Architect role about and how to grow in that direction.
+The goal of this Road Map is to help in understanding what is Solution Architect role about and how to grow in that direction. To achieve this there is a plan to interview people who already plays Solution Architect role in different companies.
 
 # Road Map
 
