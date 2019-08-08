@@ -14,4 +14,4 @@ TBD
 
 ## Sources/books/courses
 
-1. ["Stakeholder Theory: The State of the Art", by R. Edward Freeman](https://www.amazon.com/gp/product/0521137934)
+- ["Stakeholder Theory: The State of the Art", by R. Edward Freeman](https://www.amazon.com/gp/product/0521137934)
