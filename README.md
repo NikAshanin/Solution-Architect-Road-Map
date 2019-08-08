@@ -46,7 +46,7 @@ Each point will be described in a proper way:
 ## Roles&Responsibilities
 
 - Technical Consultant
-  - To manage stakeholders
+  - [To manage stakeholders](Technical-Consultant/To-manage-stakeholders.md)
   - To participate in pre-sale activities
   - To make architecture assessments
   - To make interviews
