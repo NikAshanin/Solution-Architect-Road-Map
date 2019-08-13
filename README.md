@@ -51,7 +51,7 @@ Each point will be described in a proper way:
   - To make architecture assessments
   - To make interviews
   - To participate in architecture discovery
-  - To provide high-level cost or effort estimations
+  - [To provide high-level cost or effort estimations](Technical-Consultant/To-manage-stakeholders.md)
   - To triage incidents during test phases
 - Technical leader
   - Technical design
