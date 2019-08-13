@@ -1,4 +1,4 @@
-# To provide high level cost or effort estimations.md
+# To provide high level cost or effort estimations
 
 ## Definition
 
