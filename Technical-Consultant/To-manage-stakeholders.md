@@ -14,5 +14,4 @@ TBD
 
 ## Sources/books/courses
 
-- ["Software Estimation: Demystifying the Black Art (Developer Best Practices)", by Steve McConnell](https://amzn.to/2Z3pKxQ)
-- ["How to Measure Anything: Finding the Value of Intangibles in Business", by Douglas W. Hubbard](https://amzn.to/2H4OS15)
+- ["Stakeholder Theory: The State of the Art", by R. Edward Freeman](https://amzn.to/2YWF936)
