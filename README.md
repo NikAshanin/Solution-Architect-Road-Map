@@ -111,7 +111,7 @@ Each point will be described in a proper way:
   - Direct contact with stakeholders
   - Explanation skills
   - Negotiations
-  - Conflict management
+  - [Conflict management](Communication/Conflict-management.md)
   - Networking
 - Time management
   - Priority management
