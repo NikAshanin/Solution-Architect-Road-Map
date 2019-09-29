@@ -1,0 +1,17 @@
+# Should be aware of design patterns for solving different kind of problems
+
+## Definition
+
+TBD
+
+## Why is it important
+
+TBD
+
+## How to improve
+
+TBD
+
+## Sources/books/courses
+
+TBD
