@@ -46,12 +46,12 @@ Each point will be described in a proper way:
 ## Roles&Responsibilities
 
 - Technical Consultant
-  - [To manage stakeholders](Technical-Consultant/To-manage-stakeholders.md)
+  - [To manage stakeholders](Roles&Responsibilities/Technical-Consultant/To-manage-stakeholders.md)
   - To participate in pre-sale activities
   - To make architecture assessments
   - To make interviews
   - To participate in architecture discovery
-  - [To provide high-level cost or effort estimations](Technical-Consultant/To-provide-high-level-cost-or-effort-estimations.md)
+  - [To provide high-level cost or effort estimations](Roles&Responsibilities/Technical-Consultant/To-provide-high-level-cost-or-effort-estimations.md)
   - To triage incidents during test phases
 - Technical leader
   - Technical design
@@ -105,37 +105,37 @@ Each point will be described in a proper way:
 
 ## Personal skills
 - Presentation skills
-  - Public speaking
-  - White-boarding skills
+  - [Public speaking](Personal-skills/Presentation-skills/Public-speaking.md)
+  - [White-boarding skills](Personal-skills/Presentation-skills/White-boarding-skills.md)
 - Communication
-  - Direct contact with stakeholders
-  - Explanation skills
-  - Negotiations
-  - [Conflict management](Communication/Conflict-management.md)
-  - Networking
+  - [Stakeholders management](Personal-skills/Communication/Stakeholders-management.md)
+  - [Explanation skills](Personal-skills/Communication/Explanation-skills.md)
+  - [Negotiations](Personal-skills/Communication/Negotiations.md)
+  - [Conflict management](Personal-skills/Communication/Conflict-management.md)
+  - [Networking](Personal-skills/Communication/Networking.md)
 - Time management
-  - Priority management
-  - Time management
+  - [Priority management](Personal-skills/Time-management/Priority-management.md)
+  - [Time management](Personal-skills/Time-management/Time-management.md)
 - Mind
-  - Abstract mind
-  - Tactic and strategic mind
-  - Decision making
-  - Stress resistance
+  - [Abstract mind](Personal-skills/Mind/Abstract-mind.md)
+  - [Tactic and strategic mind](Personal-skills/Mind/Tactic-and-strategic-mind.md)
+  - [Decision making](Personal-skills/Mind/Decision-making.md)
+  - [Stress resistance](Personal-skills/Mind/Stress-resistance.md)
 - Self development
-  - Constant self education
-  - Discipline
-  - Personal growth plan
-  - Ability to quick learn new things
+  - [Constant self education](Personal-skills/Self-development/Constant-self-education.md)
+  - [Discipline](Personal-skills/Self-development/Discipline.md)
+  - [Personal growth plan](Personal-skills/Self-development/Personal-growth-plan.md)
+  - [Ability to quick learn new things](Personal-skills/Self-development/Ability-to-quick-learn-new-things.md)
 - Relation management
-  - Empathy
-  - Emotional Intellegence
+  - [Empathy](Personal-skills/Relation-management/Empathy.md)
+  - [Emotional Intellegence](Personal-skills/Relation-management/Emotional-intellegence.md)
 - Programming
-  - Should be able to do quick POCs
-  - Should be very strong with coding in relevant technologies as per the technology stack of the organization
+  - [Should be able to do quick POCs](Personal-skills/Programming/Should-be-able-to-do-quick-POCs.md)
+  - [Should be very strong with coding in relevant technologies as per the technology stack of the organization](Personal-skills/Programming/Should-be-strong-tech.md)
 - Analysis and design
-  - Should be aware of design patterns for solving different kind of problems
-  - Should demonstrate strong analytic and design skills
-- Mentoring/training
+  - [Should be aware of design patterns for solving different kind of problems](Personal-skills/Analysis-and-design/Patterns.md)
+  - [Should demonstrate strong analytic and design skills](Personal-skills/Analysis-and-design/Analytic-and-design.md)
+- [Mentoring/training](Personal-skills/Mentoring.md)
 
 # Contacts
 
