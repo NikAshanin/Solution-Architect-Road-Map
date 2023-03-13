@@ -10,7 +10,7 @@ The goal of this Road Map is to help in understanding what is Solution Architect
 
 If you liked this project and want to support it please feel free:
 
-[<img src="coffee.png">]([http://example.com/](https://www.buymeacoffee.com/nvashaninm))
+[<img src="coffee.png" width="120px">]([http://example.com/](https://www.buymeacoffee.com/nvashaninm))
 
 # Road Map
 
