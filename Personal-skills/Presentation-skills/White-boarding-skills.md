@@ -34,16 +34,16 @@ Here are some ways to improve your whiteboarding skills as a solution architect:
 
 ## Sources/books/courses
 
-- "The Back of the Napkin" by Dan Roam: This book offers a practical guide to using visual thinking to solve problems and convey ideas. It includes many examples of effective visual storytelling and whiteboarding.
+- **"The Back of the Napkin"** by Dan Roam: This book offers a practical guide to using visual thinking to solve problems and convey ideas. It includes many examples of effective visual storytelling and whiteboarding.
 
-- "The Sketchnote Handbook" by Mike Rohde: This book is focused on sketchnoting, which is a visual note-taking technique that can be useful for whiteboarding. It offers tips on how to create effective visual aids and improve your overall visual communication skills.
+- **"The Sketchnote Handbook"** by Mike Rohde: This book is focused on sketchnoting, which is a visual note-taking technique that can be useful for whiteboarding. It offers tips on how to create effective visual aids and improve your overall visual communication skills.
 
-- "The Whiteboard Interview" by Antonio Gulli and Amit Prakash: This book is specifically focused on whiteboarding during technical interviews, but it includes many tips and techniques that are useful for whiteboarding in general.
+- **"The Whiteboard Interview"** by Antonio Gulli and Amit Prakash: This book is specifically focused on whiteboarding during technical interviews, but it includes many tips and techniques that are useful for whiteboarding in general.
 
-- "Visual Thinking: Empowering People and Organizations through Visual Collaboration" by Willemien Brand: This book explores how visual thinking can be used to improve communication and collaboration in a variety of settings, including whiteboarding.
+- **"Visual Thinking: Empowering People and Organizations through Visual Collaboration"** by Willemien Brand: This book explores how visual thinking can be used to improve communication and collaboration in a variety of settings, including whiteboarding.
 
-- "Visual Meetings: How Graphics, Sticky Notes and Idea Mapping Can Transform Group Productivity" by David Sibbet: This book offers practical advice on how to use visual aids like whiteboards to improve group meetings and decision-making processes.
+- **"Visual Meetings: How Graphics, Sticky Notes and Idea Mapping Can Transform Group Productivity"** by David Sibbet: This book offers practical advice on how to use visual aids like whiteboards to improve group meetings and decision-making processes.
 
-- This article from the Harvard Business Review offers some tips on how to improve your whiteboarding skills: https://hbr.org/2018/04/how-to-improve-your-whiteboarding-skills
+- This article from the **Harvard Business Review** offers some tips on how to improve your whiteboarding skills: https://hbr.org/2018/04/how-to-improve-your-whiteboarding-skills
 
-- This YouTube video from Google Developers offers some tips on how to whiteboard effectively during technical interviews: https://www.youtube.com/watch?v=5kEyr8sGmfo
+- This YouTube **video from Google Developers** offers some tips on how to whiteboard effectively during technical interviews: https://www.youtube.com/watch?v=5kEyr8sGmfo
