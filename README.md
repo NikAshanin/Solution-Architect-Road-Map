@@ -9,7 +9,8 @@ However, there are just a few sources and books which can help with Solution Arc
 The goal of this Road Map is to help in understanding what is Solution Architect role about and how to grow in that direction. To achieve this there is a plan to interview people who already plays Solution Architect role in different companies.
 
 If you liked this project and want to support it please feel free:
-- [coffee.png](https://www.buymeacoffee.com/nvashaninm)
+
+[<img src="coffee.png">]([http://example.com/](https://www.buymeacoffee.com/nvashaninm))
 
 # Road Map
 
