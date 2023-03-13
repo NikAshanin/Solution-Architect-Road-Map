@@ -20,17 +20,17 @@ Public speaking can be an important skill for a solution architect for several r
 
 There are several ways that a solution architect can improve their public speaking skills:
 
-- Practice, practice, practice: The more you practice public speaking, the more comfortable and confident you will become. Look for opportunities to speak in front of others, such as giving presentations at work, joining a local Toastmasters group, or volunteering to speak at a community event.
+- **Practice, practice, practice**: The more you practice public speaking, the more comfortable and confident you will become. Look for opportunities to speak in front of others, such as giving presentations at work, joining a local Toastmasters group, or volunteering to speak at a community event.
 
-- Prepare thoroughly: Thorough preparation is key to effective public speaking. Make sure you know your material inside and out, and rehearse your presentation several times before delivering it.
+- **Prepare thoroughly**: Thorough preparation is key to effective public speaking. Make sure you know your material inside and out, and rehearse your presentation several times before delivering it.
 
-- Focus on your body language: Nonverbal communication is just as important as verbal communication when it comes to public speaking. Make sure you maintain good eye contact, use confident and open body language, and avoid nervous habits like fidgeting or pacing.
+- **Focus on your body language**: Nonverbal communication is just as important as verbal communication when it comes to public speaking. Make sure you maintain good eye contact, use confident and open body language, and avoid nervous habits like fidgeting or pacing.
 
-- Get feedback: Ask colleagues, friends, or family members to watch you practice and give you feedback on your public speaking skills. They may be able to offer constructive criticism or suggest areas for improvement.
+- **Get feedback**: Ask colleagues, friends, or family members to watch you practice and give you feedback on your public speaking skills. They may be able to offer constructive criticism or suggest areas for improvement.
 
-- Learn from others: Study great public speakers and try to emulate their style and techniques. Watch TED Talks or other inspiring presentations, and pay attention to how the speaker engages with the audience, uses humor and storytelling, and communicates their ideas effectively.
+- **Learn from others**: Study great public speakers and try to emulate their style and techniques. Watch TED Talks or other inspiring presentations, and pay attention to how the speaker engages with the audience, uses humor and storytelling, and communicates their ideas effectively.
 
-- Take a public speaking course: Consider taking a public speaking course, either online or in-person. A good course can help you develop your skills and give you practical tools and techniques for improving your public speaking abilities.
+- **Take a public speaking course**: Consider taking a public speaking course, either online or in-person. A good course can help you develop your skills and give you practical tools and techniques for improving your public speaking abilities.
 
 ## Sources/books/courses
 
