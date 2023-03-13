@@ -24,17 +24,17 @@ In summary, effective conflict management is crucial for a solution architect to
 
 Improving conflict management skills involves developing a range of interpersonal skills such as communication, negotiation, and problem-solving. Here are some ways to improve your conflict management skills:
 
-- Active listening: One of the most important skills in conflict management is active listening. This means listening attentively to the other person's perspective, without interrupting or judging. Try to understand the other person's point of view and ask questions to clarify their position.
+- **Active listening**: One of the most important skills in conflict management is active listening. This means listening attentively to the other person's perspective, without interrupting or judging. Try to understand the other person's point of view and ask questions to clarify their position.
 
-- Empathy: Empathy is the ability to understand and share the feelings of others. It is an essential skill in conflict management because it helps you understand the other person's emotions and perspective. Put yourself in the other person's shoes and try to see the situation from their point of view.
+- **Empathy**: Empathy is the ability to understand and share the feelings of others. It is an essential skill in conflict management because it helps you understand the other person's emotions and perspective. Put yourself in the other person's shoes and try to see the situation from their point of view.
 
-- Communication skills: Effective communication is key to resolving conflicts. It involves expressing yourself clearly and respectfully, using "I" statements instead of "you" statements, and avoiding blame or criticism. Good communication skills also involve being able to articulate your own needs and interests, while also considering the other person's perspective.
+- **Communication skills**: Effective communication is key to resolving conflicts. It involves expressing yourself clearly and respectfully, using "I" statements instead of "you" statements, and avoiding blame or criticism. Good communication skills also involve being able to articulate your own needs and interests, while also considering the other person's perspective.
 
-- Problem-solving skills: Conflict management requires problem-solving skills. This means identifying the root cause of the conflict, brainstorming possible solutions, and evaluating the pros and cons of each option. Try to find a solution that satisfies both parties and addresses the underlying issue.
+- **Problem-solving skills**: Conflict management requires problem-solving skills. This means identifying the root cause of the conflict, brainstorming possible solutions, and evaluating the pros and cons of each option. Try to find a solution that satisfies both parties and addresses the underlying issue.
 
-- Negotiation skills: Negotiation involves finding a mutually acceptable solution that meets the needs of all parties involved. It involves being able to compromise and find common ground. Negotiation skills also involve being able to identify the other person's needs and interests and finding ways to meet those needs.
+- **Negotiation skills**: Negotiation involves finding a mutually acceptable solution that meets the needs of all parties involved. It involves being able to compromise and find common ground. Negotiation skills also involve being able to identify the other person's needs and interests and finding ways to meet those needs.
 
-- Practice: Like any skill, conflict management takes practice. Look for opportunities to practice your conflict management skills in your personal and professional life. Seek feedback from others and use it to improve your skills.
+- **Practice**: Like any skill, conflict management takes practice. Look for opportunities to practice your conflict management skills in your personal and professional life. Seek feedback from others and use it to improve your skills.
 
 In summary, improving your conflict management skills involves developing active listening, empathy, communication, problem-solving, negotiation skills, and practicing in different situations.
 
