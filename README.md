@@ -27,7 +27,7 @@ It includes two main parts:
 
 # Work in progress
 
-Current version in pre-alpha. You are really welcome to contribute to a project via pull request or you can create an issue.
+You are really welcome to contribute to a project via pull request or you can create an issue.
 
 # How to contribute
 
