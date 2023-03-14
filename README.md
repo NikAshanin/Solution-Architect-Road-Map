@@ -49,7 +49,7 @@ Each point will be described in a proper way:
 
 ## Roles&Responsibilities
 
-- [Technical Consultant](Roles&Responsibilities/Technical-consultant/Technical-consultant.md)
+- [Technical Consultant](Roles&Responsibilities/Technical-Consultant/Technical-Consultant.md)
   - [To manage stakeholders](Roles&Responsibilities/Technical-Consultant/To-manage-stakeholders.md)
   - To participate in pre-sale activities
   - To make architecture assessments
@@ -82,7 +82,7 @@ Each point will be described in a proper way:
   - Requirements
     - To manage non-functional requirements
     - To ensure that defined solution is according security standards and guidelines
-- [Business Anatytic/Product owner](Roles&Responsibilities/Technical-leader/Technical-leader.md)
+- [Business Anatytic/Product owner](Roles&Responsibilities/Business-Anatytic-Product-owner/Business-Anatytic-Product-owner.md)
   - Market knowledge
     - To do risk-management related to law knowledge (GDPR, etc) from FR&NFR point of view
     - To know competitors
