@@ -57,7 +57,7 @@ Each point will be described in a proper way:
   - To participate in architecture discovery
   - [To provide high-level cost or effort estimations](Roles&Responsibilities/Technical-Consultant/To-provide-high-level-cost-or-effort-estimations.md)
   - To triage incidents during test phases
-- Technical leader
+- [Technical leader](Roles&Responsibilities/Technical-leader.md)
   - Technical design
     - Writing or managing solution documentation
 	- To make high-level OR enterprise level technical design
