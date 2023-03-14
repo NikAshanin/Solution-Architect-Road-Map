@@ -47,6 +47,40 @@ Each point will be described in a proper way:
 - How to improve
 - Sources/books/courses
 
+## Personal skills
+- Presentation skills
+  - [Public speaking](Personal-skills/Presentation-skills/Public-speaking.md)
+  - [White-boarding skills](Personal-skills/Presentation-skills/White-boarding-skills.md)
+- Communication
+  - [Stakeholders management](Personal-skills/Communication/Stakeholders-management.md)
+  - [Explanation skills](Personal-skills/Communication/Explanation-skills.md)
+  - [Negotiations](Personal-skills/Communication/Negotiations.md)
+  - [Conflict management](Personal-skills/Communication/Conflict-management.md)
+  - [Networking](Personal-skills/Communication/Networking.md)
+- Time management
+  - [Priority management](Personal-skills/Time-management/Priority-management.md)
+  - [Time management](Personal-skills/Time-management/Time-management.md)
+- Mind
+  - [Abstract mind](Personal-skills/Mind/Abstract-mind.md)
+  - [Tactic and strategic mind](Personal-skills/Mind/Tactic-and-strategic-mind.md)
+  - [Decision making](Personal-skills/Mind/Decision-making.md)
+  - [Stress resistance](Personal-skills/Mind/Stress-resistance.md)
+- Self development
+  - [Constant self education](Personal-skills/Self-development/Constant-self-education.md)
+  - [Discipline](Personal-skills/Self-development/Discipline.md)
+  - [Personal growth plan](Personal-skills/Self-development/Personal-growth-plan.md)
+  - [Ability to quick learn new things](Personal-skills/Self-development/Ability-to-quick-learn-new-things.md)
+- Relation management
+  - [Empathy](Personal-skills/Relation-management/Empathy.md)
+  - [Emotional Intellegence](Personal-skills/Relation-management/Emotional-intellegence.md)
+- Programming
+  - [Should be able to do quick POCs](Personal-skills/Programming/Should-be-able-to-do-quick-POCs.md)
+  - [Should be very strong with coding in relevant technologies as per the technology stack of the organization](Personal-skills/Programming/Should-be-strong-tech.md)
+- Analysis and design
+  - [Should be aware of design patterns for solving different kind of problems](Personal-skills/Analysis-and-design/Patterns.md)
+  - [Should demonstrate strong analytic and design skills](Personal-skills/Analysis-and-design/Analytic-and-design.md)
+- [Mentoring/training](Personal-skills/Mentoring.md)
+
 ## Roles&Responsibilities
 
 - [Technical Consultant](Roles&Responsibilities/Technical-Consultant/Technical-Consultant.md)
@@ -106,40 +140,6 @@ Each point will be described in a proper way:
   - To resolve planning dependencies
   - To support team allocation
   - To make license costs calculation
-
-## Personal skills
-- Presentation skills
-  - [Public speaking](Personal-skills/Presentation-skills/Public-speaking.md)
-  - [White-boarding skills](Personal-skills/Presentation-skills/White-boarding-skills.md)
-- Communication
-  - [Stakeholders management](Personal-skills/Communication/Stakeholders-management.md)
-  - [Explanation skills](Personal-skills/Communication/Explanation-skills.md)
-  - [Negotiations](Personal-skills/Communication/Negotiations.md)
-  - [Conflict management](Personal-skills/Communication/Conflict-management.md)
-  - [Networking](Personal-skills/Communication/Networking.md)
-- Time management
-  - [Priority management](Personal-skills/Time-management/Priority-management.md)
-  - [Time management](Personal-skills/Time-management/Time-management.md)
-- Mind
-  - [Abstract mind](Personal-skills/Mind/Abstract-mind.md)
-  - [Tactic and strategic mind](Personal-skills/Mind/Tactic-and-strategic-mind.md)
-  - [Decision making](Personal-skills/Mind/Decision-making.md)
-  - [Stress resistance](Personal-skills/Mind/Stress-resistance.md)
-- Self development
-  - [Constant self education](Personal-skills/Self-development/Constant-self-education.md)
-  - [Discipline](Personal-skills/Self-development/Discipline.md)
-  - [Personal growth plan](Personal-skills/Self-development/Personal-growth-plan.md)
-  - [Ability to quick learn new things](Personal-skills/Self-development/Ability-to-quick-learn-new-things.md)
-- Relation management
-  - [Empathy](Personal-skills/Relation-management/Empathy.md)
-  - [Emotional Intellegence](Personal-skills/Relation-management/Emotional-intellegence.md)
-- Programming
-  - [Should be able to do quick POCs](Personal-skills/Programming/Should-be-able-to-do-quick-POCs.md)
-  - [Should be very strong with coding in relevant technologies as per the technology stack of the organization](Personal-skills/Programming/Should-be-strong-tech.md)
-- Analysis and design
-  - [Should be aware of design patterns for solving different kind of problems](Personal-skills/Analysis-and-design/Patterns.md)
-  - [Should demonstrate strong analytic and design skills](Personal-skills/Analysis-and-design/Analytic-and-design.md)
-- [Mentoring/training](Personal-skills/Mentoring.md)
 
 # Contacts
 
